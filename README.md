@@ -1,3 +1,4 @@
+# Password Generator
 It is a simple password generator.
 Generates random password for the user.
 It is made using HTML, Tailwind CSS, Javascript and ReactJS.
